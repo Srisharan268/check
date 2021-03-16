@@ -12,7 +12,7 @@ canvas {
 
 @font-face {
     font-family: 'Tempest Apache Title';
-    src: url('https://github.com/Srisharan268/check/blob/main/tempestapachetitle-webfont.woff') format('woff');
+    src: url("../check/tempestapachetitle-webfont.woff") format('woff');
     font-weight: normal;
     font-style: normal;
 
