@@ -20,7 +20,7 @@ canvas {
 
 @font-face {
     font-family: 'SPACE RANGER';
-    src: url('https://github.com/Srisharan268/check/blob/main/spaceranger-webfont.woff') format('woff');
+    src: url('../check/spaceranger-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
