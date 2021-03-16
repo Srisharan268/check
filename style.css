@@ -12,7 +12,7 @@ canvas {
 
 @font-face {
     font-family: 'Tempest Apache Title';
-    src: url('http://127.0.0.1:8887/tempestapachetitle-webfont.woff') format('woff');
+    src: url('https://github.com/Srisharan268/check/blob/main/tempestapachetitle-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -20,7 +20,7 @@ canvas {
 
 @font-face {
     font-family: 'SPACE RANGER';
-    src: url('http://127.0.0.1:8887/spaceranger-webfont.woff') format('woff');
+    src: url('https://github.com/Srisharan268/check/blob/main/spaceranger-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
